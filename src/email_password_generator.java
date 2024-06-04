@@ -83,7 +83,7 @@ class AWTEmail{
         f.setVisible(true);
     }
 
-    public static void main (String args[]){
+    public static void email_password_generator (String args[]){
         AWTEmail awt_obj = new AWTEmail();
     }
 }
